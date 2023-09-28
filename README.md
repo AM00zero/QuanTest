@@ -2,7 +2,7 @@
 
 ## Dependencies
 
-See 
+See requirements.txt
 
 ## Run
 Demo： MNIST-QCL classification task
